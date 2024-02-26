@@ -4,6 +4,7 @@
 ## Aouther: Ziad Tamer #
 '''
 
+
 def generatekey(string, key):
     key = list(key)
     if len(string) == len(key):
